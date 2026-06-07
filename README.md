@@ -22,7 +22,9 @@ De los datos crudos a estrategias de fidelización: análisis de correlación, c
 
 En la industria del fitness, adquirir un nuevo cliente cuesta 5× más que retener uno existente. Este proyecto demuestra cómo transformar datos de membresía en estrategias de retención personalizadas, combinando análisis estadístico con aprendizaje no supervisado para identificar quién se va a ir... antes de que lo haga.
 
-Competencias demostradas:
+**Competencias demostradas:**
+
+
 🔬 Análisis exploratorio con enfoque en variables predictoras de churn
 
 🤖 Clustering jerárquico y K-Means para segmentación de clientes
@@ -30,6 +32,9 @@ Competencias demostradas:
 📊 PCA para visualización de alta dimensionalidad
 
 💼 Traducción de insights técnicos en acciones de negocio concretas
+
+**Proyecto** 
+
 
 📊 1. Análisis de Factores de Abandono (Churn Analysis)
 Variables Categóricas — Impacto en Retención
@@ -45,7 +50,7 @@ Variables Categóricas — Impacto en Retención
 
 
 
-.
+
 📈 2. Matriz de Correlación — Variables Numéricas
 
 
@@ -94,7 +99,7 @@ El análisis del dendrograma sugiere k = 3 clusters como punto de corte óptimo 
 |  **1**  | "Cliente Comprometido" — vive cerca, social, con beneficios corporativos |     🟢 **MENOR**    | Programa de fidelización, referidos, membresía premium   |
 
 
-5. Estrategias de Retención por Segmento
+🎯5. Estrategias de Retención por Segmento
 
 Para el Cluster de Alto Riesgo (Cluster 0 / Grupos 3, 4 en k=5)
 
@@ -114,9 +119,14 @@ Para el Cluster de Bajo Riesgo (Cluster 1 / Grupos 1, 2 en k=5)
 | Socialización confirmada | Eventos comunitarios, competencias grupales | 💰 Medio |       Reforzar "efecto tribu"      |
 
 🏠 Factor Proximidad (Near_Location)
-El factor más predictor de retención. Clientes que viven cerca tienen 20% menos abandono.
-Acción: Campañas geo-targeting para captar usuarios en un radio de 2km
-Acción: Alianzas con transporte público / estacionamiento para reducir fricción de distancia
+El factor más predictor de retención.
+
+Clientes que viven cerca tienen 20% menos abandono.
+~~Acción~~: Campañas geo-targeting para captar usuarios en un radio de 2km.
+
+$$
+Acción:
+$$ Estacionamiento para reducir fricción de distancia
 
 
 Resultado medible propuesto
