@@ -122,14 +122,13 @@ Para el Cluster de Bajo Riesgo (Cluster 1 / Grupos 1, 2 en k=5)
 El factor más predictor de retención.
 
 Clientes que viven cerca tienen 20% menos abandono.
-~~Acción~~: Campañas geo-targeting para captar usuarios en un radio de 2km.
-
-$$
-Acción:
-$$ Estacionamiento para reducir fricción de distancia
+**Acción:** Campañas geo-targeting para captar usuarios en un radio de 2km.
 
 
-Resultado medible propuesto
+**Acción:** Estacionamiento para reducir fricción de distancia
+
+
+**Resultado medible propuesto**
 
 
 Implementar las estrategias sugeridas podría reducir el churn del Cluster 0 (alto riesgo) en un 15-20% mediante:
