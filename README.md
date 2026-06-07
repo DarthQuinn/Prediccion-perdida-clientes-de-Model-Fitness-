@@ -122,6 +122,7 @@ Para el Cluster de Bajo Riesgo (Cluster 1 / Grupos 1, 2 en k=5)
 El factor más predictor de retención.
 
 Clientes que viven cerca tienen 20% menos abandono.
+
 **Acción:** Campañas geo-targeting para captar usuarios en un radio de 2km.
 
 
